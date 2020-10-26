@@ -1,0 +1,31 @@
+.block{
+	background-color: white;
+	width: 104%;
+	height: 48px;
+
+
+}
+.block2{
+	float: right;
+	padding: 2px 5%;
+}
+
+.log{
+	background-color: #4CAF50;
+	font-size: 20px;
+	border-radius: 3px;
+	color: white;
+
+}
+.register{
+	background-color: #4CAF50;
+	font-size: 23px;
+	border-radius: 3px;
+	color: white;
+}	
+.log:hover{
+	background-color: #00a600;
+}
+.register:hover{
+	background-color:#00a600;
+}
